@@ -1,0 +1,19 @@
+@import "../../_globalColor";
+
+.container {
+  display: flex;
+  flex-direction: row;
+  width: auto;
+  flex-wrap: wrap;
+  align-items: center;
+  text-align: center;
+}
+.size{
+  padding: 7px;
+  background: orangered;
+  margin: 10px;
+  border-radius: 35px;
+}
+.size:hover {
+  background: cornflowerblue;
+}
