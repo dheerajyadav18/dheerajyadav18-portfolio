@@ -1,10 +1,10 @@
 <!---------------------------- Banner Image ----------------------------->
-![Devraj Chatribin - Banner](https://user-images.githubusercontent.com/65373279/118028011-34ec0180-b380-11eb-80ce-58f1e13a1292.png)
+![Dheeraj Yadav - Banner](/public/cover.png)
 
 
 <!---------------------------- Typewriter animation ----------------------------->
-# [⚡Devraj Chatribin⚡](https://devrajchatribin.com/)
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Frontend+Web+Developer;I'm+a+UI%2FUX+Designer;I'm+a+Mentor;I'm+a+Graphic+Designer)
+# [⚡Dheeraj Yadav⚡]()
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Full-Stack+Web+Developer;I'm+a+UI%2FUX+Designer;I'm+a+Graphic+Designer)
 
 <hr />
 
@@ -14,118 +14,78 @@
 <!-- <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> -->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/DevrajDC/DevrajDC/main/developer.gif" height="250" width="375" />
 
-## Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!
+## Hello there!
 
 - 🔭 I’m currently working on my Portfolio
 - 👯 I'm looking to collaborate on Open source project
-- 👨‍💻 All of my projects are available at https://devrajchatribin.com/
+- 👨‍💻 All of my projects are available at https://github.com/dheerajyadav18
 - 💬 Ask me about *Web Development, UI/UX Design, Graphic Design.*
-- 📫 How to reach me: <a href="mailto:devrajchatribin9978@gmail.com">devrajchatribin9978@gmail.com</a>
-- 📄 Know about my experiences, my *Resume*: [here](https://drive.google.com/file/d/16Ct6T8brKjm_HzEa-ijV_PWI8eIGjrLx/view?usp=sharing)
-- ⚡ Fun fact: I am an *Artist*
+- 📫 How to reach me: <a href="mailto:dheerajyadav2200@gmail.com">dheerajyadav2200@gmail.com</a>
+- 📄 Know about my experiences, my *Resume*: [here]()
+- ⚡ Fun fact: I am an *Developer With Creative Designing Skills*
 
 <br>
 <hr />
 
 
-<!---------------------------- My Skills Section ----------------------------->
-## 📚 My Skills
+## Table of Contents
+- [Sections](#sections)
+- [Getting Started](#getting-started)
+- [How to Use](#how-to-use)
+- [Linking portfolio to GitHub](#linking-portfolio-to-github)
+- [Linking blogs section to Medium](#linking-blogs-section-to-medium)
+- [Change and Customize](#change-and-customize-every-section-according-to-your-need)
+- [Deployment](#deployment)
+- [Technologies Used](#technologies-used)
+- [Illustrations](#illustrations)
+- [For the Future](#for-the-future)
+- [Contributors](#project-maintainers)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevrajDC&layout=compact&show_icons=true&theme=react&bg_color=20232a&hide_border=true)](https://github.com/DevrajDC)
+## Portfolio Sections
+✔️ Summary and About me\
+✔️ Skills\
+✔️ Education\
+✔️ Work Experience\
+✔️ Web Dev Projects\
+✔️ Designing Projects\
+✔️ Achievements And Certifications 🏆\
+✔️ Blogs\
+✔️ Talks\
+✔️ Podcast\
+✔️ Contact me\
+✔️ Twitter Timeline\
+✔️ GitHub Profile
 
-![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Skill](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Skill](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Skill](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Skill](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![Skill](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Skill](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Skill](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Skill](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Skill](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Skill](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Skill](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Skill](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Skill](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Skill](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Skill](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Skill](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Skill](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Skill](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Skill](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
-![Skill](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Skill](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Skill](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-<br>
-<hr />
+To view a live example, **[click here]()**.
 
 
-<!---------------------------- Github Statistics ----------------------------->
-## 📊 Github Statistics
+## Getting Started
 
-<!-- <p align="left"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevrajDC&theme=github_dark" alt="Devraj Contributions"/></p> -->
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-<p align="left">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=DevrajDC&show_icons=true&theme=react&bg_color=20232a&hide_border=true" />
-  <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=DevrajDC&theme=react&bg_color=20232a&hide_border=true" />
-</p>
+You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer or use [Docker](https://www.docker.com/products/docker-desktop).
 
+```
+node@v10.16.0 or higher
+npm@6.9.0 or higher
+git@2.17.1 or higher
+```
 
-<!---------------------------- Contribution Graph ----------------------------->
-<img src="https://activity-graph.herokuapp.com/graph?username=DevrajDC&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="DevrajDC | Stats"/>
-<hr />
+## How To Use 
 
+From your command line, clone and run dheerajyadav18_portfolio:
 
-<!----------------------------- Open Source Projects --------------------------->
-## 📘 Some of my Repositories
+# Install dependencies
+npm install
 
-<p align="left">
-  <a href="https://github.com/DevrajDC/Devraj-Chatribin"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=myportfolio&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/DevrajDC/resourceshub"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=resourceshub&hide_border=true&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Design-and-Code/Design-and-Code"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Design-and-Code&repo=Design-and-Code&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-</p>
-<p align="left">
-  <a href="https://github.com/DevrajDC?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-<hr />
+# Start a local dev server
+npm start
+```
+# How to Deploy
 
+I have used Vercel to host my Web Application. If you want to use GitHub Pages, just run `npm run build` and publish all the files in the `/build` folder to your repository.
 
-
-<!--------------------------------- Social Links --------------------------------->
-## 🤝🏻 Connect with Me
-
-<p align="left">
-<a href="mailto:devrajchatribin9978@gmail.com" style="text-decoration:none">
-  <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/devraj-chatribin/" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/DevrajDC" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="https://www.behance.net/devrajchatribin" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/Behance-darkblue.svg?&style=for-the-badge&logo=Behance&logoColor=white" />
-</a>
-<a href="https://dev.to/devrajdc" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/Dev.to-black.svg?&style=for-the-badge&logo=Dev.to&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/designfordev" style="text-decoration:none">
-  <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://discord.gg/gM3bG4rAU5" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-</p>
-<hr />
-
-<!---------------------------------  Snake Animation  ------------------------>
-## Watch a 🐍 eating my contribution graph
-<p align="center" width="100%">
-  <img src="https://github.com/DevrajDC/DevrajDC/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"></center>
-</p>
+## Connect To Me [here](https://linktr.ee/Dheeraj_Yadav).
 
 <!---------------------------------  Marquee Animation  ------------------------>
 <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
