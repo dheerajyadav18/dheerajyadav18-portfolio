@@ -80,7 +80,7 @@ npm install
 
 # Start a local dev server
 npm start
-```
+
 # How to Deploy
 
 I have used Vercel to host my Web Application. If you want to use GitHub Pages, just run `npm run build` and publish all the files in the `/build` folder to your repository.
