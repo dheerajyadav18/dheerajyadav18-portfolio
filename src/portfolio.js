@@ -1,20 +1,20 @@
 
 
 import emoji from "react-easy-emoji";
-import splashAnimation from "./assets/lottie/programming-computer"; 
+import splashAnimation from "./assets/lottie/programming-computer";
 
 
 
 const splashScreen = {
-  enabled: true, 
+  enabled: true,
   animation: splashAnimation,
-  duration: 1000 
+  duration: 1000
 };
 
 
 
 const illustration = {
-  animated: true 
+  animated: true
 };
 
 const greeting = {
@@ -23,8 +23,8 @@ const greeting = {
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with MERN Stack mainly React JS and some other cool libraries, frameworks and designing tools."),
   resumeLink:
-    "https://drive.google.com/file/d/1R6WvLcHbwdz8xm5l4wg5aAhNL6QQ-xAv/view?usp=sharing", 
-  displayGreeting: true 
+    "https://drive.google.com/file/d/1R6WvLcHbwdz8xm5l4wg5aAhNL6QQ-xAv/view?usp=sharing",
+  displayGreeting: true
 };
 
 
@@ -37,8 +37,8 @@ const socialMediaLinks = {
   facebook: "https://www.facebook.com/dheerajyadav2200",
   Dribble: "https://dribbble.com/dheerajyadav18",
   geeksforgeeks: "https://auth.geeksforgeeks.org/user/dheerajyadav18/profile",
- 
-  display: true 
+
+  display: true
 };
 
 
@@ -126,13 +126,13 @@ const skillsSection = {
       fontAwesomeClassname: "fab fa-medium"
     }
   ],
-  display: true 
+  display: true
 };
 
 
 
 const educationInfo = {
-  display: true, 
+  display: true,
   schools: [
     {
       schoolName: "Indore Institute of Science and Technology",
@@ -158,11 +158,11 @@ const educationInfo = {
 
 
 const techStack = {
-  viewSkillBars: true, 
+  viewSkillBars: true,
   experience: [
     {
-      Stack: "Frontend/Design", 
-      progressPercentage: "90%" 
+      Stack: "Frontend/Design",
+      progressPercentage: "90%"
     },
     {
       Stack: "Backend",
@@ -173,13 +173,13 @@ const techStack = {
       progressPercentage: "80%"
     }
   ],
-  displayCodersrank: false 
+  displayCodersrank: false
 };
 
 
 
 const workExperiences = {
-  display: true, 
+  display: true,
   experience: [
     {
       role: "UI/UX Core Team Member & Front-End Role",
@@ -193,22 +193,22 @@ const workExperiences = {
       company: "Codechef IIST",
       companylogo: require("./assets/images/Codechef.PNG"),
       date: "November 2021 – June 2023",
-      
+
     },
     {
       role: "Social Media Executive Team",
       company: "Geeks For Geeks-IIST",
       companylogo: require("./assets/images/GFG.PNG"),
       date: "September 2022 – May 2023",
-     
+
     }
   ]
 };
 
 
 const openSource = {
-  showGithubProfile: "true", 
-  display: true 
+  showGithubProfile: "true",
+  display: true
 };
 
 
@@ -230,8 +230,8 @@ const bigProjects = {
           name: "Github",
           url: "https://github.com/dheerajyadav18/Minor-Project-Admin-Dashboard"
         }
-        
-      
+
+
       ]
     },
     {
@@ -332,13 +332,13 @@ const bigProjects = {
       ]
     }
   ],
-  
-  display: true 
+
+  display: true
 };
 
 const DesigningProjects = {
   title: "Designing Projects",
-  
+
   projects: [
     {
       image: require("./assets/images/SignUp page web.png"),
@@ -349,7 +349,7 @@ const DesigningProjects = {
           name: "Figma Link",
           url: "https://www.figma.com/file/STKrORYz1TT9nqUawvu52W/TrackForce?node-id=5%3A380&t=TfXcG9IEsBAQ5C3K-1"
         }
-       
+
       ]
     },
     {
@@ -377,7 +377,7 @@ const DesigningProjects = {
     {
       image: require("./assets/images/wireframes.PNG"),
       projectName: "Wireframes Of Project",
-       projectDesc: "Wireframing is a practice most commonly used by UX designers.",
+      projectDesc: "Wireframing is a practice most commonly used by UX designers.",
       footerLink: [
         {
           name: "Whimsical Link",
@@ -386,8 +386,8 @@ const DesigningProjects = {
       ]
     }
   ],
-  
-  display: true 
+
+  display: true
 };
 
 
@@ -420,6 +420,16 @@ const achievementSection = {
     {
       image: require("./assets/Certificates/CCNA.PNG"),
       imageAlt: "CCNA",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://drive.google.com/drive/folders/1gl__iYewtD4oq4VbiE2UQrA-QjSN2rOz?usp=share_link"
+        }
+      ]
+    },
+    {
+      image: require("./assets/Certificates/kavach.PNG"),
+      imageAlt: "kavach",
       footerLink: [
         {
           name: "Certification",
@@ -578,7 +588,7 @@ const achievementSection = {
         }
       ]
     },
-    
+
     {
       image: require("./assets/Certificates/skillrack.jfif"),
       imageAlt: "skillrack",
@@ -589,10 +599,10 @@ const achievementSection = {
         }
       ]
     }
-    
+
 
   ],
-  display: true 
+  display: true
 };
 
 
@@ -600,7 +610,7 @@ const blogSection = {
   title: "Blogs",
   subtitle:
     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
-  displayMediumBlogs: "true", 
+  displayMediumBlogs: "true",
   blogs: [
     {
       url: "https://medium.com/@dheerajyadav18/how-to-write-beautiful-readme-md-for-project-313f3b5ebe36",
@@ -609,7 +619,7 @@ const blogSection = {
         "Description: Provide a brief overview of what your project does, its purpose, and the benefits it provides. Use clear and concise language, and avoid technical jargon as much as possible."
     }
   ],
-  display: true 
+  display: true
 };
 
 // Talks Sections
@@ -625,7 +635,7 @@ const talkSection = {
       title: "1",
     }
   ],
-  
+
   display: true // Set false to hide this section, defaults to true
 };
 
