@@ -622,7 +622,7 @@ const blogSection = {
   display: true
 };
 
-// Talks Sections
+
 
 const talkSection = {
   title: "Interests",
@@ -636,10 +636,10 @@ const talkSection = {
     }
   ],
 
-  display: true // Set false to hide this section, defaults to true
+  display: true 
 };
 
-// Podcast Section
+
 
 const podcastSection = {
   title: emoji("Instagram"),
@@ -649,7 +649,7 @@ const podcastSection = {
   podcast: [
     "https://www.instagram.com/dheeraj_yadav_18_/"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: true 
 };
 
 const contactInfo = {
@@ -660,14 +660,14 @@ const contactInfo = {
   email_address: "dheerajyadav2200@gmail.com"
 };
 
-// Twitter Section
+
 
 const twitterDetails = {
-  userName: 'dheerajyadav18_', //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
+  userName: 'dheerajyadav18_', 
+  display: true 
 };
 
-const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
+const isHireable = true; 
 
 export {
   illustration,
